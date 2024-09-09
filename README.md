@@ -26,6 +26,7 @@ This project is being developed to learn and apply the following concepts:
 - Loyalty programs (e.g., $50 for referring a salon).
 - Customer cards (e.g., discounts on future visits).
 - Reservation history and promotional notifications.
+- A chat / chatbot for asking about services
 
 ### For Service Providers:
 - Appointment management: modifying times, adding/removing services.
