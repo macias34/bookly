@@ -17,7 +17,8 @@ This project is being developed to learn and apply the following concepts:
 
 ### For Customers:
 - One-click booking of services at any time.
-- One-click reservation cancellations.
+- One-click reservation cancellations, if service provider allows.
+- Standby reservation list
 - Access to multiple services in a single app.
 - Appointment reminders.
 - Reviews and ratings of service providers.
@@ -29,7 +30,7 @@ This project is being developed to learn and apply the following concepts:
 - A chat / chatbot for asking about services
 
 ### For Service Providers:
-- Appointment management: modifying times, adding/removing services.
+- Appointment management: modifying times, adding/removing services, standby reservation list
 - Block off time for holidays or vacations.
 - Calendar view – easy and intuitive appointment overview.
 - Statistics: monitoring financials and trends.
