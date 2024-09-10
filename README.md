@@ -30,20 +30,20 @@ This project is being developed to learn and apply the following concepts:
 - A chat / chatbot for asking about services
 
 ### For Service Providers:
-- Appointment Management: Modify appointment times, add/remove services, manage a standby reservation list.
-- Block Time Off: Easily block time for holidays, vacations, or special events.
-- Statistics: Financial statistics, performance trends, and appointment history.
-- Reservation Calendar: Clear and intuitive calendar view of upcoming appointments.
-- Client Cards: Track customer history, offer discounts for regular visits, and note preferences.
-- Inventory Management: Monitor stock levels for products like cosmetics or equipment.
-- Sales of Products: Offer and manage product sales, such as cosmetics, books, or guides.
-- Marketing Tools: Set up promotions, send promotional messages to clients.
-- Gift Cards: Option to sell gift cards directly through the platform.
-- Cancellation Policy: Set cancellation terms (e.g., deposits or time limits).
-- Service Packages: Create bundles of services or special offers.
-- Appointment Reminders: Automatically send reminders to both providers and clients.
-- Client Notes: Keep notes on clients, such as allergies, personality traits (e.g., outgoing, quiet), or preferences.
-- Time-Saving Features: Book, modify, or cancel appointments without needing phone calls.
+- **Appointment Management**: Modify appointment times, add/remove services, manage a standby reservation list.
+- **Block Time Off**: Easily block time for holidays, vacations, or special events.
+- **Statistics: Financial** statistics, performance trends, and appointment history.
+- **Reservation Calendar**: Clear and intuitive calendar view of upcoming appointments.
+- **Client Cards**: Track customer history, offer discounts for regular visits, and note preferences.
+- **Inventory Management**: Monitor stock levels for products like cosmetics or equipment.
+- **Sales of Products**: Offer and manage product sales, such as cosmetics, books, or guides.
+- **Marketing Tools**: Set up promotions, send promotional messages to clients.
+- **Gift Cards**: Option to sell gift cards directly through the platform.
+- **Cancellation Policy**: Set cancellation terms (e.g., deposits or time limits).
+- **Service Packages**: Create bundles of services or special offers.
+- **Appointment Reminders**: Automatically send reminders to both providers and clients.
+- **Client Notes**: Keep notes on clients, such as allergies, personality traits (e.g., outgoing, quiet), or preferences.
+- **Time-Saving Features**: Book, modify, or cancel appointments without needing phone calls.
 
 ## 📚 Architecture
 
