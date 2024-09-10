@@ -32,7 +32,7 @@ This project is being developed to learn and apply the following concepts:
 ### For Service Providers:
 - **Appointment Management**: Modify appointment times, add/remove services, manage a standby reservation list.
 - **Block Time Off**: Easily block time for holidays, vacations, or special events.
-- **Statistics: Financial** statistics, performance trends, and appointment history.
+- **Statistics**: Financial statistics, performance trends, and appointment history.
 - **Reservation Calendar**: Clear and intuitive calendar view of upcoming appointments.
 - **Client Cards**: Track customer history, offer discounts for regular visits, and note preferences.
 - **Inventory Management**: Monitor stock levels for products like cosmetics or equipment.
